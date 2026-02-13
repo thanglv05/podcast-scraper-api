@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log
+.git
+.gitignore
+README.md
+DEPLOY_GUIDE.md
+QUICKSTART.md
+COMPLETE.md
+FIX.md
+*.tar.gz
+.DS_Store
